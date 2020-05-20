@@ -1,4 +1,4 @@
 pyttsx3
 flask
 chess
-
+webbrowser
