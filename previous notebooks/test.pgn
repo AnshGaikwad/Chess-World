@@ -1,0 +1,10 @@
+[Event "Example"]
+[Site "Linz"]
+[Date "2020-05-07"]
+[Round "1"]
+[White "Stockfish11"]
+[Black "MyAi"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Ne4 3. d3 Nc5 4. d4 Ne6 5. d5 Nc5 6. Nc3 d6 7. exd6 exd6 8. Nf3 Nbd7 9. b4 Qf6 10. Nd4 Qe7+ 11. Be2 Ne4 12. Nxe4 Qxe4 13. O-O Qxd5 14. Re1 Ne5 15. Bb5+ Kd8 16. c4 Nf3+ 17. Qxf3 Qe5 18. Rxe5 dxe5 19. Qxf7 Be7 20. Qd5+ Bd7 21. Qxd7# 1-0
+
