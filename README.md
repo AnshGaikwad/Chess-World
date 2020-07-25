@@ -44,3 +44,4 @@ Now send the following link provided by ngrok to the user you wish to play with.
 > 2. No conditions are applied for playing over the internet, i.e. anyone can play anymove at anytime.
 # Group Members
 > 1. [Arshad Patel](https://github.com/arshadpatel2001)
+> 2. [Nisha Modani](https://github.com/nisha2204)
